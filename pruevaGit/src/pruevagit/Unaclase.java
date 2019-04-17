@@ -12,4 +12,8 @@ package pruevagit;
 public class Unaclase {
  public void unMetodo(){
     System.out.println("Hola");
-}
+ }
+
+  private int Numero;
+  }
+
