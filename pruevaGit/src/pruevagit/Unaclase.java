@@ -15,5 +15,6 @@ public class Unaclase {
  }
 
   private int Numero;
+ private Strng Nombre;
   }
 
