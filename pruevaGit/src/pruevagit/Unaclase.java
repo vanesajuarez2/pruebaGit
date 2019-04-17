@@ -10,5 +10,6 @@ package pruevagit;
  * @author programador
  */
 public class Unaclase {
-    
+ public void unMetodo(){
+    System.out.println("Hola");
 }
